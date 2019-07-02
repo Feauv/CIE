@@ -1,0 +1,125 @@
+{
+  "goods": [
+    {
+      "name": "dress",
+      "health_values": {
+        "food": 0,
+        "clothes": 50,
+        "entertainment": 10
+      },
+      "description": "black dress",
+      "price" : 62.48
+    },
+    {
+      "name": "pants",
+      "health_values": {
+        "food": 0,
+        "clothes": 10,
+        "entertainment": 5
+      },
+      "description": "made of denim",
+      "price" : 44.03
+
+    },
+    {
+      "name": "jacket",
+      "health_values": {
+        "food": 0,
+        "clothes": 50,
+        "entertainment": 10
+      },
+      "description": "fleece jacket",
+      "price" : 71.44
+    },
+    {
+      "name": "sandwich",
+      "health_values": {
+        "food": 20,
+        "clothes": 0,
+        "entertainment": 5
+      },
+      "description": "bread and filling",
+      "price" : 8.49
+    },
+    {
+      "name": "soda",
+      "health_values": {
+        "food": 10,
+        "clothes": 0,
+        "entertainment": 2
+      },
+      "description": "something to drink",
+      "price" : 2.75
+    },
+    {
+      "name": "soup",
+      "health_values": {
+        "food": 30,
+        "clothes": 0,
+        "entertainment": 20
+      },
+      "description": "warms the soul",
+      "price" : 6.25
+    },
+    {
+      "name": "ice skates",
+      "health_values": {
+        "food": 0,
+        "clothes": 10,
+        "entertainment": 60
+      },
+      "description": "sharp shoes",
+      "price" : 80.00
+    },
+    {
+      "name": "helmet",
+      "health_values": {
+        "food": 0,
+        "clothes": 40,
+        "entertainment": 15
+      },
+      "description": "protect the brain",
+      "price" : 45.00
+    },
+    {
+      "name": "gloves",
+      "health_values": {
+        "food": 0,
+        "clothes": 10,
+        "entertainment": 5
+      },
+      "description": "keeps fingers warm",
+      "price" : 15.00
+    },
+    {
+      "name": "family pass",
+      "health_values": {
+        "food": 0,
+        "clothes": 0,
+        "entertainment": 25
+      },
+      "description": "The whole family goes",
+      "price" : 25.00
+    },
+    {
+      "name": "doubles pass",
+      "health_values": {
+        "food": 0,
+        "clothes": 0,
+        "entertainment": 50
+      },
+      "description": "Just you and a friend",
+      "price" : 15.0
+    },
+    {
+      "name": "single pass",
+      "health_values": {
+        "food": 0,
+        "clothes": 0,
+        "entertainment": 20
+      },
+      "description": "A little solitude",
+      "price" : 8.50
+    }
+  ]
+}

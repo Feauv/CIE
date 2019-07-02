@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HW4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="teller.exe">
+				<Option output="/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/teller.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 teller.exe"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="teller.exe/fast">
+				<Option output="/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/teller.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 teller.exe/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ReportGeneration.exe">
+				<Option output="/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/ReportGeneration.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 ReportGeneration.exe"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ReportGeneration.exe/fast">
+				<Option output="/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/ReportGeneration.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 ReportGeneration.exe/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hw4lib">
+				<Option output="/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/libhw4lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 hw4lib"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hw4lib/fast">
+				<Option output="/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/libhw4lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 hw4lib/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/GroverDover/cie/njgrove/homework/hw4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/AccountLedger.cpp">
+			<Option target="hw4lib"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/AccountLedger.h">
+			<Option target="hw4lib"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/Address.cpp">
+			<Option target="hw4lib"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/Address.h">
+			<Option target="hw4lib"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/Bank.cpp">
+			<Option target="hw4lib"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/Bank.h">
+			<Option target="hw4lib"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/CustomerRecord.cpp">
+			<Option target="hw4lib"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/CustomerRecord.h">
+			<Option target="hw4lib"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/ReportGeneration.cpp">
+			<Option target="ReportGeneration.exe"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/Transaction.cpp">
+			<Option target="hw4lib"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/Transaction.h">
+			<Option target="hw4lib"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/TransactionTime.cpp">
+			<Option target="hw4lib"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/TransactionTime.h">
+			<Option target="hw4lib"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/ValidAccountTypes.h">
+			<Option target="hw4lib"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/common.h">
+			<Option target="hw4lib"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/teller_simulation.cpp">
+			<Option target="teller.exe"/>
+		</Unit>
+		<Unit filename="/Users/GroverDover/cie/njgrove/homework/hw4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

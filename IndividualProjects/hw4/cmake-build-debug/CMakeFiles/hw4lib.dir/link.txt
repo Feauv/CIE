@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libhw4lib.a  CMakeFiles/hw4lib.dir/Bank.cpp.o CMakeFiles/hw4lib.dir/Transaction.cpp.o CMakeFiles/hw4lib.dir/AccountLedger.cpp.o CMakeFiles/hw4lib.dir/CustomerRecord.cpp.o CMakeFiles/hw4lib.dir/Address.cpp.o CMakeFiles/hw4lib.dir/TransactionTime.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libhw4lib.a

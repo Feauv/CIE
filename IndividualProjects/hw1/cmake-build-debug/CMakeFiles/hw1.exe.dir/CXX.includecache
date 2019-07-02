@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/GroverDover/cie/njgrove/homework/hw1/card.h
+
+/Users/GroverDover/cie/njgrove/homework/hw1/game.h
+card.h
+/Users/GroverDover/cie/njgrove/homework/hw1/card.h
+
+/Users/GroverDover/cie/njgrove/homework/hw1/hw1.cpp
+iostream
+-
+game.h
+/Users/GroverDover/cie/njgrove/homework/hw1/game.h
+utilityFunctions.h
+/Users/GroverDover/cie/njgrove/homework/hw1/utilityFunctions.h
+
+/Users/GroverDover/cie/njgrove/homework/hw1/utilityFunctions.h
+

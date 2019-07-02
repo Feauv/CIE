@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/GroverDover/cie/njgrove/homework/hw1/card.cpp
+card.h
+/Users/GroverDover/cie/njgrove/homework/hw1/card.h
+utilityFunctions.h
+/Users/GroverDover/cie/njgrove/homework/hw1/utilityFunctions.h
+
+/Users/GroverDover/cie/njgrove/homework/hw1/card.h
+
+/Users/GroverDover/cie/njgrove/homework/hw1/game.cpp
+time.h
+-
+cstdlib
+-
+iostream
+-
+stdio.h
+-
+card.h
+/Users/GroverDover/cie/njgrove/homework/hw1/card.h
+game.h
+/Users/GroverDover/cie/njgrove/homework/hw1/game.h
+utilityFunctions.h
+/Users/GroverDover/cie/njgrove/homework/hw1/utilityFunctions.h
+
+/Users/GroverDover/cie/njgrove/homework/hw1/game.h
+card.h
+/Users/GroverDover/cie/njgrove/homework/hw1/card.h
+
+/Users/GroverDover/cie/njgrove/homework/hw1/utilityFunctions.cpp
+utilityFunctions.h
+/Users/GroverDover/cie/njgrove/homework/hw1/utilityFunctions.h
+pololu/3pi.h
+-
+iostream
+-
+
+/Users/GroverDover/cie/njgrove/homework/hw1/utilityFunctions.h
+

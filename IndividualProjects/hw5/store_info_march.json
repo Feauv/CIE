@@ -1,0 +1,180 @@
+{
+  "store": [
+    {
+      "name": "American Eagle",
+      "quality_multipliers" : {
+        "food" : 0.1,
+        "clothes" : 1.0,
+        "entertainment" : 0.2
+      },
+      "inventory": [
+        {
+          "name": "dress",
+          "barcode": 73
+        },
+        {
+          "name": "jacket",
+          "barcode": 100
+        },
+        {
+          "name": "pants",
+          "barcode": 20
+        }
+      ]
+    },
+    {
+      "name": "Gap",
+      "quality_multipliers" : {
+        "food" : 0.0,
+        "clothes" : 0.9,
+        "entertainment" : 0.15
+      },
+      "inventory": [
+        {
+          "name": "dress",
+          "barcode": 100
+        },
+        {
+          "name": "jacket",
+          "barcode": 73
+        },
+        {
+          "name": "pants",
+          "barcode": 20
+        }
+      ]
+    },
+    {
+      "name": "Scheels Sporting",
+      "quality_multipliers" : {
+        "food" : 0.2,
+        "clothes" : 0.8,
+        "entertainment" : 0.2
+      },
+      "inventory": [
+        {
+          "name": "helmet",
+          "barcode": 20
+        },
+        {
+          "name": "ice skates",
+          "barcode": 73
+        },
+        {
+          "name": "gloves",
+          "barcode": 100
+        }
+      ]
+    },
+    {
+      "name": "Gander Mountain",
+      "quality_multipliers" : {
+        "food" : 0.1,
+        "clothes" : 0.7,
+        "entertainment" : 0.25
+      },
+      "inventory": [
+        {
+          "name": "helmet",
+          "barcode": 100
+        },
+        {
+          "name": "ice skates",
+          "barcode": 20
+        },
+        {
+          "name": "gloves",
+          "barcode": 73
+        }
+      ]
+    },
+    {
+      "name": "Panda Express",
+      "quality_multipliers" : {
+        "food" : 0.75,
+        "clothes" : 0.0,
+        "entertainment" : 0.3
+      },
+      "inventory": [
+        {
+          "name": "soda",
+          "barcode": 20
+        },
+        {
+          "name": "soup",
+          "barcode": 100
+        },
+        {
+          "name": "sandwich",
+          "barcode": 73
+        }
+      ]
+    },
+    {
+      "name": "Panera",
+      "quality_multipliers" : {
+        "food" : 1.2,
+        "clothes" : 0.0,
+        "entertainment" : 0.1
+      },
+      "inventory": [
+        {
+          "name": "soda",
+          "barcode": 73
+        },
+        {
+          "name": "soup",
+          "barcode": 20
+        },
+        {
+          "name": "sandwich",
+          "barcode": 100
+        }
+      ]
+    },
+    {
+      "name": "Fandango",
+      "quality_multipliers" : {
+        "food" : 0.5,
+        "clothes" : 0.0,
+        "entertainment" : 0.9
+      },
+      "inventory": [
+        {
+          "name": "family pass",
+          "barcode": 73
+        },
+        {
+          "name": "doubles pass",
+          "barcode": 20
+        },
+        {
+          "name": "single pass",
+          "barcode": 100
+        }
+      ]
+    },
+    {
+      "name": "Ice Skating Rink",
+      "quality_multipliers" : {
+        "food" : 0.4,
+        "clothes" : 0.0,
+        "entertainment" : 1.2
+      },
+      "inventory": [
+        {
+          "name": "family pass",
+          "barcode": 20
+        },
+        {
+          "name": "doubles pass",
+          "barcode": 100
+        },
+        {
+          "name": "single pass",
+          "barcode": 73
+        }
+      ]
+    }
+  ]
+}

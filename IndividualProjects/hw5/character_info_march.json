@@ -1,0 +1,278 @@
+{
+  "princess": [
+    {
+      "name": "Cinderella",
+      "demographics": {
+        "home": "France",
+        "opening_balance": {
+          "food": 0,
+          "clothes": 0,
+          "entertainment": 0
+        }
+      },
+      "purchase": [
+        {
+          "storename": "American Eagle",
+          "barcode": 73
+        },
+        {
+          "storename": "American Eagle",
+          "barcode": 20
+        }
+      ]
+    },
+    {
+      "name": "Ariel",
+      "demographics": {
+        "home": "Under the Sea",
+        "opening_balance": {
+          "food": 0,
+          "clothes": 0,
+          "entertainment": 0
+        }
+      },
+      "purchase": [
+        {
+          "storename": "Gap",
+          "barcode": 20
+        },
+        {
+          "storename": "American Eagle",
+          "barcode": 20
+        },
+        {
+          "storename": "Gander Mountain",
+          "barcode": 20
+        },
+        {
+          "storename": "Panda Express",
+          "barcode": 20
+        }
+      ]
+    }
+  ],
+  "fairy": [
+    {
+      "name": "Tinkerbell",
+      "demographics": {
+        "home": "Peter Pan",
+        "opening_balance": {
+          "food": 0,
+          "clothes": 0,
+          "entertainment": 0
+        }
+      },
+      "purchase": [
+        {
+          "storename": "Panera",
+          "barcode": 20
+        },
+        {
+          "storename": "Fandango",
+          "barcode": 73
+        },
+        {
+          "storename": "Ice Skating Rink",
+          "barcode": 100
+        },
+        {
+          "storename": "Panda Express",
+          "barcode": 20
+        },
+        {
+          "storename": "Scheels Sporting",
+          "barcode": 73
+        },
+        {
+          "storename": "Panda Express",
+          "barcode": 73
+        }
+      ]
+    },
+    {
+      "name": "Godmother",
+      "demographics": {
+        "home": "Cinderella",
+        "opening_balance": {
+          "food": 0,
+          "clothes": 0,
+          "entertainment": 0
+        }
+      },
+      "purchase": [
+        {
+          "storename": "Panera",
+          "barcode": 100
+        },
+        {
+          "storename": "Fandango",
+          "barcode": 100
+        },
+        {
+          "storename": "Ice Skating Rink",
+          "barcode": 20
+        },
+        {
+          "storename": "Panda Express",
+          "barcode": 20
+        },
+        {
+          "storename": "Scheels Sporting",
+          "barcode": 73
+        },
+        {
+          "storename": "Panda Express",
+          "barcode": 73
+        },
+        {
+          "storename": "Panera",
+          "barcode": 73
+        },
+        {
+          "storename": "Fandango",
+          "barcode": 73
+        },
+        {
+          "storename": "Ice Skating Rink",
+          "barcode": 100
+        },
+        {
+          "storename": "Panda Express",
+          "barcode": 100
+        },
+        {
+          "storename": "Scheels Sporting",
+          "barcode": 20
+        },
+        {
+          "storename": "Panda Express",
+          "barcode": 20
+        }
+      ]
+    }
+  ],
+  "ogre": [
+    {
+      "name": "Beast",
+      "demographics": {
+        "home": "Beauty and the Beast",
+        "opening_balance": {
+          "food": 0,
+          "clothes": 0,
+          "entertainment": 0
+        }
+      },
+      "purchase": [
+        {
+          "storename": "Panera",
+          "barcode": 100
+        },
+        {
+          "storename": "Panera",
+          "barcode": 100
+        },
+        {
+          "storename": "Panera",
+          "barcode": 20
+        },
+        {
+          "storename": "Panera",
+          "barcode": 20
+        },
+        {
+          "storename": "Panera",
+          "barcode": 73
+        },
+        {
+          "storename": "Panera",
+          "barcode": 73
+        },
+        {
+          "storename": "Panera",
+          "barcode": 73
+        },
+        {
+          "storename": "Panera",
+          "barcode": 73
+        },
+        {
+          "storename": "Panda Express",
+          "barcode": 100
+        },
+        {
+          "storename": "Panda Express",
+          "barcode": 100
+        },
+        {
+          "storename": "Panda Express",
+          "barcode": 20
+        },
+        {
+          "storename": "Panda Express",
+          "barcode": 20
+        }
+      ]
+    },
+    {
+      "name": "Shrek",
+      "demographics": {
+        "home": "Shrek",
+        "opening_balance": {
+          "food": 0,
+          "clothes": 0,
+          "entertainment": 0
+        }
+      },
+      "purchase": [
+        {
+          "storename": "Panera",
+          "barcode": 100
+        },
+        {
+          "storename": "Fandango",
+          "barcode": 100
+        },
+        {
+          "storename": "Ice Skating Rink",
+          "barcode": 20
+        },
+        {
+          "storename": "Panda Express",
+          "barcode": 20
+        },
+        {
+          "storename": "Scheels Sporting",
+          "barcode": 73
+        },
+        {
+          "storename": "Panda Express",
+          "barcode": 73
+        },
+        {
+          "storename": "Panera",
+          "barcode": 73
+        },
+        {
+          "storename": "Fandango",
+          "barcode": 73
+        },
+        {
+          "storename": "Ice Skating Rink",
+          "barcode": 100
+        },
+        {
+          "storename": "Panda Express",
+          "barcode": 100
+        },
+        {
+          "storename": "Scheels Sporting",
+          "barcode": 20
+        },
+        {
+          "storename": "Panda Express",
+          "barcode": 20
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libhw1lib.a  CMakeFiles/hw1lib.dir/card.cpp.o CMakeFiles/hw1lib.dir/game.cpp.o CMakeFiles/hw1lib.dir/utilityFunctions.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libhw1lib.a
